@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ITAXIEntities-Web.config Connection String" description="ITAXIEntities 應用程式在 web.config 中用來存取資料庫的連接字串。" defaultValue="metadata=res://*/Models.ITAXIDB.csdl|res://*/Models.ITAXIDB.ssdl|res://*/Models.ITAXIDB.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=140.137.61.137;initial catalog=ITAXI;persist security info=True;user id=sa;password=project@110;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\student\\Desktop\\ITAXI_LINEBot\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ITAXIEntities']/@connectionString" />
+  </parameter>
+</parameters>
