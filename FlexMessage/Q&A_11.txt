@@ -1,0 +1,54 @@
+[{"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "可以選擇司機嗎？",
+        "margin": "none",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "wrap": true
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "目前為系統指派、乘客無法選擇司機、造成您的不便深感抱歉、ITAXI團隊關心您。如果無法解決您的問題，歡迎撥打專員客服電話或傳送email、我們會盡快為您服務!!",
+        "position": "relative",
+        "wrap": true,
+        "align": "start"
+      },
+      {
+        "type": "text",
+        "text": "賴專員:📱0930-371-622",
+        "margin": "xxl",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "Email:📧ITaxi@gmail.com",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "ITAXI團隊關心您😍",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      }
+    ]
+  }}
+}]

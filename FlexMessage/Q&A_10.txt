@@ -1,0 +1,54 @@
+[{"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "如果上車時突然想改變下車地點、該如何處理?",
+        "margin": "none",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "wrap": true
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "如果司機允許、我們會請司機回報給我們專員幫忙做修改、如果司機沒辦法配合、需要您跟客服聯繫、我們會盡快幫您處理。",
+        "position": "relative",
+        "wrap": true,
+        "align": "start"
+      },
+      {
+        "type": "text",
+        "text": "賴專員:📱0930-371-622",
+        "margin": "xxl",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "Email:📧ITaxi@gmail.com",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "ITAXI團隊關心您😍",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      }
+    ]
+  }}
+}]

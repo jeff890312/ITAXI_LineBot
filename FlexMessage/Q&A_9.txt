@@ -1,0 +1,54 @@
+[{"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "如果忘記密碼怎麼辦?",
+        "margin": "none",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "wrap": true
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "請立即尋求專員為您處理，請提供申請帳號時的學號跟學生證，若是司機請提供身分證、駕照來尋求密碼。如果無法解決您的問題，歡迎撥打專員客服電話或傳送email、我們會盡快為您服務!!",
+        "position": "relative",
+        "wrap": true,
+        "align": "start"
+      },
+      {
+        "type": "text",
+        "text": "賴專員:📱0930-371-622",
+        "margin": "xxl",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "Email:📧ITaxi@gmail.com",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "ITAXI團隊關心您😍",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      }
+    ]
+  }}
+}]

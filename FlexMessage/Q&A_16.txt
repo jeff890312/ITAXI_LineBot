@@ -1,0 +1,54 @@
+[{"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "如果完成訂單後如果乘客沒有點選完成訂單、造成無法接下一單該怎麼辦？",
+        "margin": "none",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "wrap": true
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "系統會通知乘客要點選完成訂單按鈕、如有急需系統會幫您處理。如果無法解決您的問題，歡迎撥打專員客服電話或傳送email、我們會盡快為您服務!!",
+        "position": "relative",
+        "wrap": true,
+        "align": "start"
+      },
+      {
+        "type": "text",
+        "text": "賴專員:📱0930-371-622",
+        "margin": "xxl",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "Email:📧ITaxi@gmail.com",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "ITAXI團隊關心您😍",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      }
+    ]
+  }}
+}]

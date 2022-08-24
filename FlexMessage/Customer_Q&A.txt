@@ -1,0 +1,243 @@
+[
+{
+"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.tplusride.com/wp-content/uploads/2019/07/GettyImages-man-in-cab.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "position": "relative"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "緊急問題",
+            "margin": "none",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "如果緊急的搭車問題請點選這裡!!"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "物品遺失",
+              "text": "如果我將個人物品遺留在車上怎麼辦?"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "畫面跳轉",
+              "text": "如果點選立即訂單頁面一直跑到搭車紀錄怎麼辦?"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "改變地點",
+              "text": "如果上車時突然想改變下車地點、該如何處理?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://d3f1hgx3lfk57q.cloudfront.net/wp-content/uploads/2020/09/delivery-driver-mask.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "position": "relative"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "搭車問題",
+            "margin": "none",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "如果有跟搭車有關的問題請點選這裡!!"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "司機沒到",
+              "text": "如果司機一直都沒有到怎麼辦？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "找不到司機",
+              "text": "如果找不到司機怎麼辦？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "確認預約訂單",
+              "text": "請問我已經預約完成，但都沒收到系統訂單確認信怎麼辦?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://twbaoche.com/wp-content/uploads/2018/09/%E5%B0%8F%E9%BB%83%E5%8C%85%E8%BB%8A%E6%97%85%E9%81%8A6.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "position": "relative"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "訂單問題",
+            "margin": "none",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "如果有跟訂單有關的問題請點選這裡!!"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "取消訂單",
+              "text": "想要取消訂單要到哪裡取消？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "叫車範圍",
+              "text": "目前ITAXI的叫車範圍有哪些?"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "自由選擇目的地",
+              "text": "如果想去其他地方可以自由選擇目的地嗎?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://static.dw.com/image/54787025_101.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "position": "relative"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "司機問題",
+            "margin": "none",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "如果有跟司機有關的問題請點選這裡!!"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "多久叫到車",
+              "text": "請問多久可以叫到車？都沒有司機接我的單怎麼辦？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "選擇司機",
+              "text": "可以選擇司機嗎？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "回饋司機",
+              "text": "如果有關司機的意見能在那裡回饋?"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+}
+]

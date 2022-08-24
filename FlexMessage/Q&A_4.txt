@@ -1,0 +1,55 @@
+[{
+"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "如果我將個人物品遺留在車上怎麼辦?",
+        "margin": "none",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "wrap": true
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "可以到客服中心與我們取得聯繫、我們會盡快通知司機!!!",
+        "position": "relative",
+        "wrap": true,
+        "align": "start"
+      },
+      {
+        "type": "text",
+        "text": "賴專員:📱0930-371-622",
+        "margin": "xxl",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "Email:📧ITaxi@gmail.com",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "ITAXI團隊關心您😍",
+        "margin": "md",
+        "size": "lg",
+        "align": "center"
+      }
+    ]
+  }}
+}]

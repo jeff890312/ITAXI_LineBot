@@ -1,0 +1,66 @@
+[{
+"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://d3f1hgx3lfk57q.cloudfront.net/wp-content/uploads/2020/09/delivery-driver-mask.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "position": "relative"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "載客問題",
+            "margin": "none",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "如果有跟載客有關的問題請點選這裡!!"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "乘客沒出現",
+              "text": "如果乘客一直沒有出現怎麼辦？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "沒有取消按鈕",
+              "text": "如果無法點選取消訂單或沒有取消按鈕可以按該怎麼辦?"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "乘客沒有點完成訂單",
+              "text": "如果完成訂單後如果乘客沒有點選完成訂單、造成無法接下一單該怎麼辦？"
+            }
+          }
+        ]
+      }
+    }
+  ]}
+}]

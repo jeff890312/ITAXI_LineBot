@@ -1,0 +1,60 @@
+[{
+"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.crello.com/api/media/medium/220945326/stock-photo-side-view-male-call-center",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "常見問題",
+        "size": "xl",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "有任何問題歡迎洽詢客服!!!"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "乘客問題",
+          "text": "乘客問題"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "司機問題",
+          "text": "司機問題"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "客服問題",
+          "text": "客服問題"
+        }
+      }
+    ]
+  }
+}
+}]

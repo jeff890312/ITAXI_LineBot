@@ -1,0 +1,63 @@
+[
+{
+"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7302/26636196594_e8f624c44a_k.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "aspectRatio": "20:13",
+    "offsetEnd": "none"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "客服中心",
+        "size": "xl",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "有任何問題歡迎洽詢客服!!!"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "常見問題",
+          "text": "Q&A"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "聯絡客服",
+          "text": "聯絡客服"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "意見回饋",
+          "uri": "https://imd137.imd.pccu.edu.tw/ITAXI/Home/Contact"
+        }
+      }
+    ]
+  }
+}
+}
+]

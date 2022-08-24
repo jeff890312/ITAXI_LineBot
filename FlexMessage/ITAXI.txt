@@ -1,0 +1,124 @@
+[
+{
+"type": "flex",
+    "altText": "ITAXI",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.crello.com/api/media/medium/316707708/stock-photo-young-woman-holding-smartphone-talking",
+        "aspectRatio": "20:13",
+        "size": "full",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "開始搭乘ITAXI!!",
+            "size": "xl",
+            "style": "normal",
+            "decoration": "none",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "成為乘客",
+            "weight": "regular"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "乘客首頁",
+              "uri": "https://imd137.imd.pccu.edu.tw/ITAXI"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "乘客註冊",
+              "uri": "https://imd137.imd.pccu.edu.tw/ITAXI/Customers/Create"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "乘客登入",
+              "uri": "https://imd137.imd.pccu.edu.tw/ITAXI/Customers/Login"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://live.staticflickr.com/8319/29861583435_74cecd8b31_b.jpg",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "加入ITAXI!!開始載客吧!!!",
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "成為司機"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "司機首頁",
+              "uri": "https://imd137.imd.pccu.edu.tw/ITAXI"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "司機註冊",
+              "uri": "https://imd137.imd.pccu.edu.tw/ITAXI/Drivers/Create"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "司機登入",
+              "uri": "https://imd137.imd.pccu.edu.tw/ITAXI/Drivers/Login"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}}]

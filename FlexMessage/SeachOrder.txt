@@ -1,0 +1,47 @@
+[{"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7302/26636196594_e8f624c44a_k.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "aspectRatio": "20:13",
+    "offsetEnd": "none"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "查詢訂單紀錄",
+        "size": "xl",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "請選擇想要查詢的時間!!!"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "datetimepicker",
+          "label": "選擇時間",
+          "data": "information_DB",
+          "mode": "date",
+          "initial": "2021-09-25",
+          "max": "2024-01-01",
+          "min": "2021-01-01"
+        }
+      }
+    ]
+  }
+}}]

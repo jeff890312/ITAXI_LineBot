@@ -1,0 +1,185 @@
+[
+{
+"type": "flex",
+    "altText": "Q&A",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.crello.com/api/media/medium/220945326/stock-photo-side-view-male-call-center",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "position": "relative"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "操作問題",
+            "margin": "none",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "如果有跟網頁操作有關的問題請點選這裡!!"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "網頁操作",
+              "text": "如果操作網頁上有問題怎麼辦？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "網頁出現錯誤",
+              "text": "如果網頁出現錯誤，404，ERROR，該如何處理?"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "按鈕點選沒功能",
+              "text": "如果某些按鈕按了沒功能?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://twbaoche.com/wp-content/uploads/2018/09/%E5%B0%8F%E9%BB%83%E5%8C%85%E8%BB%8A%E6%97%85%E9%81%8A6.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "position": "relative"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "帳號問題",
+            "margin": "none",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "如果有跟帳號有關的問題請點選這裡!!"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "支付方式",
+              "text": "除了現金支付外還有其他付款方式嗎?"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "開立發票",
+              "text": "搭車能夠索取發票嗎?"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "忘記密碼",
+              "text": "如果忘記密碼怎麼辦?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.tplusride.com/wp-content/uploads/2019/07/GettyImages-man-in-cab.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "position": "relative"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "個人問題",
+            "margin": "none",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "如果有關個人的問題請點選這裡!!"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "個人註冊",
+              "text": "加入ITaxi計程車隊以及處理開通程序可以請家人或朋友代辦嗎？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "個資問題",
+              "text": "註冊時所提供的個人資料，會不會外洩？"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "行李限制",
+              "text": "是否有特殊行李規格與限制?"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+}
+]
