@@ -1,0 +1,257 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "訂單類別",
+            "color": "#ffffff",
+            "size": "xl",
+            "flex": 4,
+            "weight": "bold"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "出發地",
+            "color": "#FFFFFF",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "出發地點",
+            "color": "#ffffff",
+            "size": "xxl",
+            "flex": 4,
+            "weight": "bold"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "目的地",
+            "color": "#ffffffff",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "目的地點",
+            "color": "#ffffff",
+            "size": "xxl",
+            "flex": 4,
+            "weight": "bold"
+          }
+        ],
+        "margin": "md"
+      }
+    ],
+    "paddingAll": "20px",
+    "backgroundColor": "#0367D3",
+    "spacing": "md",
+    "height": "220px",
+    "paddingTop": "22px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "時間",
+            "size": "lg",
+            "margin": "none",
+            "offsetBottom": "sm"
+          },
+          {
+            "type": "text",
+            "text": "司機名稱",
+            "margin": "none",
+            "size": "lg",
+            "offsetBottom": "sm"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "出發時間",
+                "gravity": "center",
+                "size": "sm"
+              }
+            ],
+            "flex": 1
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [],
+                "cornerRadius": "30px",
+                "width": "12px",
+                "height": "12px",
+                "borderWidth": "2px",
+                "borderColor": "#FF0000"
+              },
+              {
+                "type": "filler"
+              }
+            ],
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "出發地點",
+            "gravity": "center",
+            "flex": 4,
+            "size": "sm"
+          }
+        ],
+        "spacing": "lg",
+        "cornerRadius": "30px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "filler"
+              }
+            ],
+            "flex": 1
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [],
+                    "width": "2px",
+                    "backgroundColor": "#6486E3"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "flex": 1
+              }
+            ],
+            "width": "12px"
+          },
+          {
+            "type": "text",
+            "gravity": "center",
+            "flex": 4,
+            "size": "xs",
+            "color": "#8c8c8c",
+            "text": "hr"
+          }
+        ],
+        "spacing": "lg",
+        "height": "64px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "到達時間",
+            "gravity": "center",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [],
+                "cornerRadius": "30px",
+                "width": "12px",
+                "height": "12px",
+                "borderColor": "#6486E3",
+                "borderWidth": "2px"
+              },
+              {
+                "type": "filler"
+              }
+            ],
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "目的地點",
+            "gravity": "center",
+            "flex": 4,
+            "size": "sm"
+          }
+        ],
+        "spacing": "lg",
+        "cornerRadius": "30px"
+      }
+    ],
+    "margin": "none"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "金額",
+        "align": "center",
+        "size": "md"
+      }
+    ]
+  }
+}
